@@ -20,7 +20,6 @@ public class Exercise9 {
 		
 		// Escribimos el resultado
 		System.out.println("Son iguales: " + (num1 == num2));
-		
 
 		// Cerramos el escaner
 		sc.close();
